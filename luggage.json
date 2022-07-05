@@ -1,0 +1,1 @@
+{"name": "GameQuizShow!", "description": "Run a digital game show", "version": "0.0.1", "dependencies": ["pysimplegui", "pygame"], "python": "3.9.2", "main_entrypoint": "main.py"}
